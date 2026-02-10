@@ -1,5 +1,22 @@
-/* styles.css */
+/* styles.css */ 
 
-* {
-	font-family: Arial;
-}
+
+body { 
+  background-color: #111213; 
+} 
+
+.backgroundImage { 
+background-image: url(../img/Group\ 2.png); 
+width: 857px; 
+height: 635px; 
+margin: 64px auto; 
+} 
+
+.backgroundImage:hover { 
+  background-image: url(../img/Group\ 1.png); 
+  cursor: crosshair; 
+} 
+
+h3 a:hover { 
+  color: white; 
+} 
