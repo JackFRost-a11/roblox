@@ -17,6 +17,17 @@ margin: 64px auto;
   cursor: crosshair; 
 } 
 
+h1 {
+  color: rgb(35, 89, 189);
+  font-size: 40px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
 h3 a:hover { 
   color: white; 
 } 
